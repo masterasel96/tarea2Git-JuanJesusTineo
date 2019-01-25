@@ -14,4 +14,12 @@ public class jugador {
     private String nombre;
     private int votos;
     private int id;
+    
+    public jugador(String nombre, int votos, int id){
+        
+        this.nombre=nombre;
+        this.votos=votos;
+        this.id=id;
+        
+    }
 }
