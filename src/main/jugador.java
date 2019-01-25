@@ -10,7 +10,8 @@ package main;
  * @author juanjesus
  */
 public class jugador {
-    public static void main(String[] args) {
-        System.out.println("Hola jugadores!!");
-    }
+   
+    private String nombre;
+    private int votos;
+    private int id;
 }
