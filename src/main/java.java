@@ -5,6 +5,7 @@
  */
 package main;
 
+
 /**
  *
  * @author juanjesus
@@ -12,7 +13,12 @@ package main;
 public class java {
     
      public static void main(String[] args) {
-        System.out.println("Hola mundo!!");
+         
+         
+         
+        jugador p1 = new jugador("pepe",10,2548);
+        
+        
     }
     
 }
